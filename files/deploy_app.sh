@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  This is my text change. It is the Best text change. No one's is as good as my text change. End change. Thank you.
+  Welcome to ${PREFIX}'s app. Replace this text with your own.
   <!-- END -->
 
   </div>
