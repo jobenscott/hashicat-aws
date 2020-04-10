@@ -1,0 +1,19 @@
+
+*** These modified files were found in JOE when it aborted on Fri Apr 10 21:34:43 2020
+*** JOE was aborted because the terminal closed
+
+*** File '/root/.gitconfig'
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = jobenscott
+#	email = aaroneveleth@gmail.com
+*** File '(Unnamed)'
+/root/.gitconfig
+/root/.gitconfig
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
